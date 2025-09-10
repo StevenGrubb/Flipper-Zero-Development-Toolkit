@@ -2,7 +2,7 @@
   <img align="center" src=".github/images/blank-flipper.png" />
   <h2 align="center">Flipper Zero - Development Toolkit</h2>
   <p align="center">
-    Hey there, fellow developer!
+    Ive made a copy 
   </p>
   <p align="center">
     Welcome to the repository that houses a comprehensive and user-friendly guide for crafting your very own Flipper Zero application. By simply following along with this curated readme, and customizing it to your preferences along the way, you'll have your app up and published in no time. No need to reinvent the wheel, I've got your back!
